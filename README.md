@@ -1,7 +1,7 @@
 ```diff
 
-! Nwaneri Georginia
+! Isiaka Yusuf
 
-+ Afolabi Seun
++ Add your name here
 
 ```
